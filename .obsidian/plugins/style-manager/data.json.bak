@@ -1,0 +1,38 @@
+{
+  "__style_manager_theme": "Retroma",
+  "__style_manager_appearance": "light",
+  "__shared_version": 1794314774429,
+  "__style_manager_accent_color": "#ffb8fd",
+  "retroma-obsidian-theme@@rtm-code-font": "iA Writer Mono S",
+  "retroma-obsidian-theme@@rtm-code-size": 1.05,
+  "retroma-obsidian-theme@@code-function@@light": "#A57F2E",
+  "retroma-obsidian-theme@@workspace-font-selection": "rtm-font-ia-writer-mono",
+  "retroma-obsidian-theme@@workspace-color-scheme": "rtm-cs-monochromatic-colors",
+  "_manager_presets": [
+    {
+      "id": "fed9b7a2-3560-4643-839e-f029040560ac",
+      "name": "pink",
+      "created": 1794314673939,
+      "data": {
+        "retroma-obsidian-theme@@rtm-code-font": "iA Writer Mono S",
+        "retroma-obsidian-theme@@rtm-code-size": 1.05,
+        "retroma-obsidian-theme@@code-function@@light": "#A57F2E",
+        "retroma-obsidian-theme@@workspace-font-selection": "rtm-font-ia-writer-mono",
+        "retroma-obsidian-theme@@workspace-color-scheme": "rtm-cs-monochromatic-colors",
+        "__style_manager_theme": "Retroma",
+        "__style_manager_appearance": "light",
+        "__style_manager_accent_color": "#ffb8fd"
+      },
+      "targetedPrefixes": [
+        "__theme",
+        "__appearance",
+        "__snippets",
+        "__accentColor",
+        "retroma-obsidian-theme"
+      ]
+    }
+  ],
+  "__style_manager_snippets": [
+    "untitled"
+  ]
+}

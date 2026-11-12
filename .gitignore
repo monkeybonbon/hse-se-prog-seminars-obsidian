@@ -1,0 +1,23 @@
+workspace.json
+*answers*
+appearence.json
+
+# Локальное состояние интерфейса Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Кэш и временные файлы
+.obsidian/cache/
+.obsidian/.cache/
+.trash/
+*.tmp
+*.temp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Файлы редакторов
+.vscode/
+.idea/

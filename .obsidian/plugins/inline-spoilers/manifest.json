@@ -1,0 +1,10 @@
+{
+	"id": "inline-spoilers",
+	"name": "Inline spoilers",
+	"version": "1.3.1",
+	"minAppVersion": "1.13.0",
+	"description": "Adds Discord-like syntax for inline spoilers.",
+	"author": "logonoff",
+	"authorUrl": "https://logonoff.co",
+	"isDesktopOnly": false
+}

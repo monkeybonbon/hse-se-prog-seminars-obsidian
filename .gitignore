@@ -21,3 +21,5 @@ desktop.ini
 # Файлы редакторов
 .vscode/
 .idea/
+
+*.pdf
